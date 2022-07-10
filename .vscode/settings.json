@@ -10,4 +10,5 @@
     "preact",
     "twind"
   ]
+  "editor.defaultFormatter": "denoland.vscode-deno"
 }
